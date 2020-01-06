@@ -9,3 +9,5 @@ Remote respository in GitHub
 Changes that i made locallay, the latest one 
 
 GUI Testing
+
+GUI Pulling Testing
