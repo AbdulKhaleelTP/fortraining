@@ -6,4 +6,6 @@ This is second change
 
 Remote respository in GitHub
 
-Changes that i made locallay, the latest one
+Changes that i made locallay, the latest one 
+
+GUI Testing
